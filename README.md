@@ -1,4 +1,5 @@
 # SMART HOUSE
+Simulation of smart house with alarm system (buzzer and LED diodes), temperature control (NTC resistor) and smart garage (ultrasonic sensor). Arduino is used for communication with hardware and for implementing a state machine and Python is used for implementing the basic logic.
 
 ### Written in Arduino and Python
 
